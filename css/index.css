@@ -189,6 +189,12 @@ nav.navbar .icons li i:hover{
 #Offer div[class*="part"] .item:hover img{
     transform: scale(1);
 }
+#Latest .product .box1 .item ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+}
 #Latest .product .box1 .item ul li img{
     transform: scale(0.8);
     transition-duration: 0.5s;

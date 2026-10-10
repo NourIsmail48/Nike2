@@ -145,7 +145,7 @@
         width: 550px;
     }
     .popup[data-popup-name="product"].active .box{
-        width: 550px;
+        width: 400px;
     }
 }
 

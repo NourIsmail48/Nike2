@@ -168,7 +168,7 @@
         transform: translate(-45%, -60%) rotate(-35deg) scale(1);
     }
     .popup[data-popup-name="product"].active .box{
-        width: 650px;
+        width: 500px;
     }
     .popup[data-popup-name="cart"].active .box{
         width: 750px;

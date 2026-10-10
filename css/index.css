@@ -204,6 +204,8 @@ nav.navbar .icons li i:hover{
 }
 #Latest .product .selectedImg{
     width: 60%;
+    display: flex;
+    align-items: center;
 }
 #Latest .product .selectedImg img{
     transform: scale(1);

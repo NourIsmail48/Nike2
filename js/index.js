@@ -87,7 +87,7 @@ latest.forEach(function(product){
         <div class="product mainBorder p-3 bg-light rounded-3 mb-3" data-selected-size="${isProductInCart?.size ?? product.sizes[0]}" data-selected-color="${isProductInCart?.color ?? product.colors[0]}" data-product-id="${product.id}">
             <div class="row">
                 <div class="col-lg-6 part1">
-                    <div class="item">
+                    <div class="item h-100">
                         <div class="row">
                             <div class="col-lg-2 box1">
                                 <div class="item">
